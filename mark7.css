@@ -1,0 +1,69 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Alegreya+Sans:wght@400;500&family=Alegreya:wght@500&display=swap');
+
+body{
+    background-color: lavender;
+    background-image: url();
+}
+
+
+.nav{
+    text-align: center;
+    padding: 1.5rem;
+    background-color: grey;
+}
+
+.trans{
+    max-width:650px;
+    height:27rem;
+    margin:auto;
+    padding:2.5rem 0.5rem;
+    display:flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items:flex-start;
+    z-index:0;
+}
+
+#btn-translate{
+    display: block;
+    padding:0.5rem 1rem;
+    background: grey;
+    color: white;
+    border: 1px;  
+}
+
+
+
+#output, #txt-input{
+    padding:2rem;
+    border: 1px solid black;
+    width:100%;
+    color:grey;
+    min-height:8rem;
+    font-size:1.1rem;
+}
+
+#btn-translate{
+    display: block;
+    padding:0.5rem 1rem;
+    background: gray; 
+}
+
+
+p{
+    justify-content: flex-start;
+    color:white;
+    
+
+}
+
+footer{
+    bottom:0;
+    position:absolute;
+    width:100%;
+    background:var(--dark-gray);
+    text-align:center;
+    padding:1rem;
+    line-height: 1.5rem;   
+}
