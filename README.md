@@ -1,2 +1,2 @@
 # mark7new Latin translation
-Demo link -> https://github.com/arundhatij12/mark7new
+Demo link -> https://arundhatij12.github.io/csb-jswvr/
